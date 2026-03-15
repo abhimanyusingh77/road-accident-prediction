@@ -3,6 +3,7 @@
 Predicting road accident severity using Machine Learning on Indian Government open-source traffic data.
 
 📌 Problem Statement
+
 Road accidents are a leading cause of fatalities in India. This project predicts accident severity to help authorities take preventive action and improve road safety.
 
 📁 Project Structure
