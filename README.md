@@ -6,6 +6,7 @@ Predicting road accident severity using Machine Learning on Indian Government op
 Road accidents are a leading cause of fatalities in India. This project predicts accident severity to help authorities take preventive action and improve road safety.
 
 📁 Project Structure
+
 main.py — Main execution pipeline
 
 analysis.py — Exploratory Data Analysis &  visualizations
@@ -21,15 +22,27 @@ requirements.txt — Required libraries
 Python | Pandas | NumPy | Scikit-learn | XGBoost | Matplotlib | Seaborn
 
 🤖 Models Trained
+
 Logistic Regression
+
 Decision Tree
+
 Random Forest
+
 XGBoost
+
 🔍 Key Steps
+
 1.Data cleaning & Exploratory Data Analysis (EDA)
+
 2.Feature engineering
+
 3.Handling class imbalance using SMOTE
+
 4.Model training & comparison
+
 5.Visualization of accident patterns & hotspots ## ▶️ How to Run pip install -r requirements.txt python main.py
+
 👤 Author
+
 [Abhimanyu singh rajpurohit] | [Mbm University,Jodhpur | 2nd Year Bechelor Of Engineering GitHub: github.com/abhimanyusingh77
