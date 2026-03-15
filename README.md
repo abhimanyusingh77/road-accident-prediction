@@ -7,7 +7,7 @@ Road accidents are a leading cause of fatalities in India. This project predicts
 
 📁 Project Structure
 main.py — Main execution pipeline
-analysis.py — Exploratory Data Analysis & visualizations
+analysis.py — Exploratory Data Analysis &  visualizations
 model.py — Model training & evaluation
 predict.py — Prediction on new data
 requirements.txt — Required libraries
