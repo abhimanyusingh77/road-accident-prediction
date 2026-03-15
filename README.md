@@ -26,4 +26,4 @@ XGBoost
 4.Model training & comparison
 5.Visualization of accident patterns & hotspots ## ▶️ How to Run pip install -r requirements.txt python main.py
 👤 Author
-[Jitendra Singh] | [Delhi Skill And Entrepernership University | 2nd Year B.Tech GitHub: github.com/jitendrasinghai
+[Abhimanyu singh rajpurohit] | [Mbm University,Jodhpur | 2nd Year Bechelor Of Engineering GitHub: github.com/abhimanyusingh77
